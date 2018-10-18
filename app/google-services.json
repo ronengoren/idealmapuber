@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "861138630456",
+    "firebase_url": "https://idealmap-7cc6c.firebaseio.com",
+    "project_id": "idealmap-7cc6c",
+    "storage_bucket": "idealmap-7cc6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861138630456:android:6310c8b2af35abd1",
+        "android_client_info": {
+          "package_name": "com.ronen.idealmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861138630456-lm8qrv8j0feat353vf3bcuos3s5lgg6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ronen.idealmap",
+            "certificate_hash": "ec79349a8dc825d22d2551224d320c9551539789"
+          }
+        },
+        {
+          "client_id": "861138630456-d08p6q8ht9iib2fu8ua5d91pllblhq0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bSF7xxORmsCPjZ_aoxxTKaf6XPP2oXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861138630456-d08p6q8ht9iib2fu8ua5d91pllblhq0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
